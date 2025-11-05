@@ -1,41 +1,53 @@
-📖 Project Title
+# 📖 **Biblical Quotes App**
 
-Biblical Quotes App
+> ✨ *A daily source of inspiration powered by Scripture.*
 
-🕊️ Project Description
 
-The Biblical Quotes App is a web-based platform that displays a new Bible verse every day.
-Users can read daily verses, explore an archive of past quotes, and share their favorite passages.
-Admins can schedule and manage quotes to ensure daily updates.
+## 🕊️ **Project Description**
 
-⚙️ Planned Technology Stack
+The **Biblical Quotes App** is a web-based platform that displays a new Bible verse every day to inspire and uplift users.
+It allows visitors to explore an archive of past verses, save favorites, and share meaningful passages.
+Administrators can easily add, edit, and schedule quotes to ensure fresh daily content.
 
-Frontend: HTML, CSS, JavaScript (or React, if desired)
+---
 
-Backend: Django (Python)
+## ⚙️ **Planned Technology Stack**
 
-Database: SQLite (for development) / PostgreSQL (for deployment)
+| Layer               | Technology                                          |
+| :------------------ | :-------------------------------------------------- |
+| **Frontend**        | HTML, CSS, JavaScript *(or React, if preferred)*    |
+| **Backend**         | Django *(Python)*                                   |
+| **Version Control** | Git + GitHub                                        |
+| **Tools**           | Jira *(task management)*, GitHub *(source control)* |
 
-Version Control: Git + GitHub
+---
 
-Tools: Jira for task management, GitHub for source control
+## 🎯 **MVP Features**
 
-🎯 MVP Features
+* 🗓️ Display a **new Bible verse every day**
+* 🧑‍💼 **Admin panel** to add, edit, or schedule quotes
+* 📚 **Archive** of past quotes for browsing
+* 📱 **Responsive UI** that works on desktop and mobile
 
-Display a new Bible verse every day
+---
 
-Admin panel to add/edit quotes
+## 🚀 **Future Enhancements**
 
-Archive of past quotes
+* ❤️ Like / save favorite verses
+* 🔗 Share quotes on social media
+* 👥 User accounts and profiles
+* 🤖 AI-generated daily reflections or commentary
+* 🌐 Multi-language verse support
 
-Basic responsive UI
+---
 
-🚀 Future Enhancements
+## 🧩 **Project Goals**
 
-Like/save favorite quotes
+* Deliver a simple yet inspiring daily experience for users.
+* Encourage spiritual reflection through modern web design.
+* Practice full-stack development skills with Django and GitHub workflows.
 
-Social media sharing
+---
 
-User accounts
 
-AI-generated daily reflections
+> “Your word is a lamp for my feet, a light on my path.” — *Psalm 119:105*
